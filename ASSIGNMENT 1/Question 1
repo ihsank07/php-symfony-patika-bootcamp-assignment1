@@ -1,0 +1,38 @@
+Pascal Case 
+İlk harfin büyük yazıldığı ve eklemlenen kelimelerin baş harflerinin büyük yazıldığı yaklaşımdır. Alt çizgi orta çizgi gibi semboller kullanılmaz.
+Örnek:
+PascalCase
+
+
+Upper Camel Case 
+Pascal Case ile aynı kuralların geçerli olduğu yazım biçimidir. Alt çizgi orta çizgi gibi semboller kullanılmaz.
+Örnek: 
+CamelCase 
+
+Lower Camel Case
+İlk harfin küçük harfle yazılıp sonra eklemlenen kelimelerin büyük harfle yazıldığı yaklaşıma Lower Camel Case denir. Alt çizgi orta çizgi gibi semboller kullanılmaz.
+Örnek:
+camelCase
+pascalCae
+objectOrientedApproach
+
+Snake Case
+Sonradan eklemlenen kelimelerin alt çizgiyle ayrıldığı yaklaşımdır. 
+Harfler tamamen küçük ya da tamamen büyük yazılmalıdır.
+Tamamen büyük harfler kullanılan yaklaşım screaming snake case olarak adlandırılır.
+Örnek:
+snake_case
+SNAKE_CASE
+
+Kebab Case
+Sonradan eklemlenen kelimelerin kısa çizgiyle ayrıldığı yaklaşımdır.
+harfler tamamen küçük ve ya tamamen büyük yazılır.
+Tamamen büyük harfler kullanılan yaklaşım screaming kebab case olarak adlandırılır.
+kebab-case
+KEBAB-CASE
+
+Wiki Case
+1 Büyük harften sonra küçük harfin gelmesi gereken yaklaşımdır.
+Örnek:
+PhpYazimi
+WikiCase
